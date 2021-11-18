@@ -23,7 +23,7 @@ Click [here](https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-c
 git clone https://github.com/damnkid/Tea-Cozy-Codecademy.git
 ```
 
-2. Open "tea-cozy/index.html" file.
+2. Open "Tea-Cozy-Codecademy/index.html" file.
 
 ## Challenges and Credits
 This was a practice project from the full stack program at Codeacademy.
